@@ -15,3 +15,9 @@ high exposure can act as a reference GT for the low exposure test image. We have
 where every scene has a separate folder with multiple exposures.
 
 Dataset-Link: The whole training dataset, along with test images, is available at the following google drives link:
+
+https://drive.google.com/drive/u/1/folders/1uj8MGHWtRMbeuh8VZemmIv-wqUqVNdo6
+https://drive.google.com/drive/folders/18Bz2m2bWFXL7kBkt-UzKStRIj_ss_LbI
+
+
+
