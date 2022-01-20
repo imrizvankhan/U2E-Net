@@ -25,5 +25,6 @@ https://drive.google.com/drive/folders/18Bz2m2bWFXL7kBkt-UzKStRIj_ss_LbI
 <img src="https://github.com/imrizvankhan/U2E-Net/blob/main/Figures-U2E-Net/bird.png">
 <img src="https://github.com/imrizvankhan/U2E-Net/blob/main/Ablation%20U2E-rev.png">
 <img src="https://github.com/imrizvankhan/U2E-Net/blob/main/Figures-U2E-Net/PSNR+SSIM+LL+NL.png">
+<img src="https://github.com/imrizvankhan/U2E-Net/blob/main/Various-methods-images.png">
 
 
