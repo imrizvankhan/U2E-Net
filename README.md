@@ -18,6 +18,12 @@ Dataset-Link: The whole training dataset, along with test images, is available a
 
 https://drive.google.com/drive/u/1/folders/1uj8MGHWtRMbeuh8VZemmIv-wqUqVNdo6
 https://drive.google.com/drive/folders/18Bz2m2bWFXL7kBkt-UzKStRIj_ss_LbI
-
+<img src="https://github.com/imrizvankhan/U2E-Net/blob/main/Figures-U2E-Net/U2E-Net.png">
+![](https://github.com/imrizvankhan/U2E-Net/blob/main/Figures-U2E-Net/Signal+amplification.png)
+![](https://github.com/imrizvankhan/U2E-Net/blob/main/Figures-U2E-Net/gamma.png )
+<img src="https://github.com/imrizvankhan/U2E-Net/blob/main/Figures-U2E-Net/images%205%20K.png">
+<img src="https://github.com/imrizvankhan/U2E-Net/blob/main/Figures-U2E-Net/bird.png">
+<img src="https://github.com/imrizvankhan/U2E-Net/blob/main/Ablation%20U2E-rev.png">
+<img src="https://github.com/imrizvankhan/U2E-Net/blob/main/Figures-U2E-Net/PSNR+SSIM+LL+NL.png">
 
 
