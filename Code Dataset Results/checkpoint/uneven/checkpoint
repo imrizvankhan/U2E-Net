@@ -1,3 +1,0 @@
-model_checkpoint_path: "RetinexNet-Decom-1200"
-all_model_checkpoint_paths: "RetinexNet-Decom-600"
-all_model_checkpoint_paths: "RetinexNet-Decom-1200"
